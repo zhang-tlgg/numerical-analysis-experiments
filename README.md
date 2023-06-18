@@ -10,4 +10,4 @@
 - matplotlib
 - scipy
 
-
+附期末考试的 cheat sheet
